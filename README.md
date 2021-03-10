@@ -5,7 +5,7 @@ An OpenBullet 2 (Open Beta) Plugin Pack
 
 # Blaze
 
-##> **Piston (Pub-API and Priv-API)**
+## > **Piston (Pub-API and Priv-API)**
     
      Piston is a Code Execution Engine made by the Engineer Man, This is similar to the script block in RuriLib
      
@@ -14,13 +14,13 @@ An OpenBullet 2 (Open Beta) Plugin Pack
     https://github.com/engineer-man/piston
     https://github.com/OpenBullet/OpenBullet2
     
-##> **SMTP**
+## > **SMTP**
   
     As the name suggests, this is a block that can help you use the SMTP protocol
 
    **Coming Soon**
    
-##> **IMAP**
+## > **IMAP**
 
     Again, an IMAP protocol block
    
