@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6JlPW3YPz2XZbwZTLSoqzs/+zxoZZehZWUu3YG8gryoFekwW7Ac7qInicTu1eb32sSiPnEEz66WJXUgzp1Jb3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow\\source\\repos\\Blazor by SirTenzin\\Blazor by SirTenzin\\Blazor by SirTenzin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shadow\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

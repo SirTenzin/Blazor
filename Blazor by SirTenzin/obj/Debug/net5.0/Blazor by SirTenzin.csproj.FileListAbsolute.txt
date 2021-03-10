@@ -1,0 +1,99 @@
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Blazor by SirTenzin.deps.json
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Blazor by SirTenzin.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ref\Blazor by SirTenzin.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Blazor by SirTenzin.pdb
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\CaptchaSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Parallelization.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.Scripting.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Http.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Proxies.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\AngleSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\JWT.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\websocket-sharp-core.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\PuppeteerSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Jint.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\CaptchaSharp.Services.More.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Scrypt.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\IronPython.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\PuppeteerExtraSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Jering.Javascript.NodeJS.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Esprima.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.Dynamic.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Jering.IocServices.System.Net.Http.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\Microsoft.Scripting.Metadata.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.pdb
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Parallelization.pdb
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Parallelization.xml
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Http.pdb
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\RuriLib.Proxies.pdb
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.csprojAssemblyReference.cache
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.csproj.CopyComplete
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\ref\Blazor by SirTenzin.dll
+C:\Users\Shadow\source\repos\Blazor by SirTenzin\Blazor by SirTenzin\obj\Debug\net5.0\Blazor by SirTenzin.pdb
