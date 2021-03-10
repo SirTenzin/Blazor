@@ -8,7 +8,9 @@ An OpenBullet 2 (Open Beta) Plugin Pack
 
 > **Piston (Pub-API and Priv-API)**
     
-     Piston is a Code Execution Engine made by the Engineer Man, This is similar to the script block in RuriLib
+     Piston is a Code Execution Engine made by the Engineer Man, This is similar to the script block in RuriLib.
+     It functions outside of the OpenBullet 2 Instance Host, the Priv-API version runs on the Host of said API, 
+     You have the option to your own Priv-API as the Pub-API is Rate Limited to 5 RPS.
      
    Links:
    
