@@ -1,6 +1,9 @@
 # Blazor
 
-An OpenBullet 2 (Open Beta) Plugin Pack
+An OpenBullet 2 (Open Beta) Plugin Pack.
+
+Note: Im in the works of making a PWA/Electron desktop client, If you think you can help, please add me on discord:
+     SirTenzin#8888
 
 ## Current Plugins 
 
